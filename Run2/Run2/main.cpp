@@ -229,6 +229,8 @@ int main()
 	int FPSStringSize = 0;
 	core::stringc FPSString = "";
 
+	//core::floor32()
+
 	/* Here start generating viewable data for the game. Every iteration of this loop
 	 is a "frame" that is displayed on the monitor. All code that must run in the game
 	 past the initialization steps must be called inside this while loop, also known as
